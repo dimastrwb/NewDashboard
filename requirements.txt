@@ -1,5 +1,7 @@
 streamlit
-prophet
 pandas
 requests
 matplotlib
+prophet
+openpyxl
+xlsxwriter
